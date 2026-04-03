@@ -18,7 +18,7 @@ This project predicts whether a hotel booking will be cancelled using machine le
 - Hyperparameter tuning
 
 ## Model Performance
-- Accuracy: ~90%
+- Accuracy: ~87%
 - Evaluated using Precision, Recall, F1-score, ROC-AUC
 
 ## Outcome
@@ -32,11 +32,11 @@ Built a predictive model to help hotels reduce cancellations and improve plannin
 ### 2. Model Training
 ![Model Training](image2.png)
 
-### 3. Model Comparison
-![Model Comparison](image3.png)
+### 3. Multiple models
+![Multiple models](image3.png)
 
-### 4. Hyperparameter Tuning
-![Hyperparameter Tuning](image4.png)
+### 4. Model Comparison
+![Model Comparison](image4.png)
 
 ### 5. ROC Curve
 ![ROC Curve](image5.png)
@@ -57,5 +57,3 @@ Built a predictive model to help hotels reduce cancellations and improve plannin
 
 
 
-### 6. Feature Importance
-![Feature Importance](image6.png)

@@ -23,3 +23,39 @@ This project predicts whether a hotel booking will be cancelled using machine le
 
 ## Outcome
 Built a predictive model to help hotels reduce cancellations and improve planning for over booking.
+
+## Project Workflow
+
+### 1. Data Overview
+![Data Overview](image1.png)
+
+### 2. Model Training
+![Model Training](image2.png)
+
+### 3. Model Comparison
+![Model Comparison](image3.png)
+
+### 4. Hyperparameter Tuning
+![Hyperparameter Tuning](image4.png)
+
+### 5. ROC Curve
+![ROC Curve](image5.png)
+
+### 6. Feature Importance
+![Feature Importance](image6.png)
+
+### 7.Business Insights
+![Business Insights](image7.png)
+
+
+
+
+
+
+
+
+
+
+
+### 6. Feature Importance
+![Feature Importance](image6.png)
